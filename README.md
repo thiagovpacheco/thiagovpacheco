@@ -56,5 +56,5 @@ Engenheiro da Computação e desenvolvedor web. Construo automação e agentes d
 |---|---|---|
 | [coe-odontologia](https://github.com/thiagovpacheco/coe-odontologia) | Site de cliente no ar, com design system próprio e dados estruturados em JSON-LD. [thiagovpacheco.github.io/coe-odontologia](https://thiagovpacheco.github.io/coe-odontologia/) | HTML, CSS, JavaScript |
 | [frivell-frigorifico](https://github.com/thiagovpacheco/frivell-frigorifico) | Site de cliente no ar, frigorífico, página única sem framework, com tokens de marca. [frigorificovellasco.vercel.app](https://frigorificovellasco.vercel.app) | HTML, CSS |
-| Portfólio | Sete páginas, com modal em iframe e vídeo em canvas controlado pelo scroll. [pagina-vitrine.vercel.app](https://pagina-vitrine.vercel.app) | HTML, CSS, JavaScript |
+| [portfolio-thiago](https://github.com/thiagovpacheco/portfolio-thiago) | Meu portfólio, sete páginas, com modal em iframe e vídeo em canvas controlado pelo scroll. [pagina-vitrine.vercel.app](https://pagina-vitrine.vercel.app) | HTML, CSS, JavaScript |
 | [face_recognition_app](https://github.com/thiagovpacheco/face_recognition_app) | Reconhecimento facial e controle de ponto | Python |
