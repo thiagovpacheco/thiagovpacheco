@@ -1,12 +1,13 @@
 <h1 align="center">Olá, eu sou o Thiago 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Web · Engenheiro da Computação</b><br>
-  Sites com bom design · Automações com Python & IA · Tráfego pago (Meta Ads)
+  <b>Engenheiro da Computação · Desenvolvedor Web e Automação</b><br>
+  Automação e agentes de IA em produção · Sites de alto padrão · Tráfego pago (Meta Ads)
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thiago-velasco-pacheco-b66568187/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://pagina-vitrine.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="mailto:thiagovpacheco@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
@@ -14,12 +15,12 @@
 
 ### 🚀 Sobre mim
 
-Engenheiro da Computação que une **desenvolvimento web** e **marketing de performance**. Crio sites com código limpo e bom design, desenvolvo automações em Python e IA, e atuo com tráfego pago. Gosto de transformar tecnologia em resultado de negócio.
+Engenheiro da Computação e desenvolvedor web. Construo automação e agentes de IA que rodam em produção e escrevo sites e aplicações web em JavaScript, TypeScript e React, com foco em UX/UI e layout responsivo. Meus fluxos em Python e n8n consomem API REST autenticada com OAuth2 e recebem dados por webhook, e os agentes se integram a Supabase, Gmail e Drive por servidores MCP.
 
-- 🔭 Hoje: desenvolvo sites e automações + tráfego pago numa agência de marketing
-- 🌱 Aprimorando: TypeScript, React, performance e Meta Ads
-- 💬 Fala comigo sobre: web, automação, IA aplicada e growth
-- 📫 Contato: **thiagovpacheco@gmail.com**
+- 🔭 Uma dessas automações acabou com a cobrança manual de uma empresa e realocou 3 pessoas para outras funções
+- 🤖 Uso IA todo dia no desenvolvimento e reviso o código antes de prosseguir
+- 📈 Também estruturo campanhas de conversão no Meta Ads, o que me faz ler produto pelos dois lados
+- 📫 Contato pelo thiagovpacheco@gmail.com
 
 ---
 
@@ -29,9 +30,13 @@ Engenheiro da Computação que une **desenvolvimento web** e **marketing de perf
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -47,9 +52,9 @@ Engenheiro da Computação que une **desenvolvimento web** e **marketing de perf
 
 ### 📌 Projetos em destaque
 
-| Projeto | Descrição | Stack |
+| Projeto | O que é | Stack |
 |---|---|---|
-| [page-portfolio-repository](https://github.com/thiagovpacheco/page-portfolio-repository) | Portfólio pessoal moderno e responsivo | JavaScript, CSS |
-| [dropshipping-page](https://github.com/thiagovpacheco/dropshipping-page) | Landing page focada em conversão | TypeScript, HTML |
+| [coe-odontologia](https://github.com/thiagovpacheco/coe-odontologia) | Site de cliente no ar, com design system próprio e dados estruturados em JSON-LD. [thiagovpacheco.github.io/coe-odontologia](https://thiagovpacheco.github.io/coe-odontologia/) | HTML, CSS, JavaScript |
+| [frivell-frigorifico](https://github.com/thiagovpacheco/frivell-frigorifico) | Site de cliente no ar, frigorífico, página única sem framework, com tokens de marca. [frigorificovellasco.vercel.app](https://frigorificovellasco.vercel.app) | HTML, CSS |
+| Portfólio | Sete páginas, com modal em iframe e vídeo em canvas controlado pelo scroll. [pagina-vitrine.vercel.app](https://pagina-vitrine.vercel.app) | HTML, CSS, JavaScript |
 | [face_recognition_app](https://github.com/thiagovpacheco/face_recognition_app) | Reconhecimento facial e controle de ponto | Python |
-| [angular-blog](https://github.com/thiagovpacheco/angular-blog) | Blog construído do zero com Angular | Angular, TypeScript |
